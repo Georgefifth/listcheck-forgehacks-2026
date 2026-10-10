@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+submission/raw/
+submission/frames/
+submission/*.work/
+submission/*.zip
+submission/video-check.jpg
+submission/listcheck-demo.mp4
+submission/live-demo/production.log
