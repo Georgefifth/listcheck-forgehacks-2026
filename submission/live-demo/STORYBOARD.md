@@ -1,6 +1,6 @@
 # Storyboard and full English narration
 
-Planned pacing: about 2½ minutes, with pauses for first-time viewers. Actual output timings are documented in FINAL-QA.md after export. Light editorial palette follows the product: ivory, emerald, mint. Synthetic data is explicitly disclosed.
+Planned pacing: within the official 2–4 minute window, with pauses for first-time viewers. Actual output timings are documented in FINAL-QA.md after export. Light editorial palette follows the product: ivory, emerald, mint. Synthetic data is explicitly disclosed.
 
 ## 0:00–0:12 · hook
 
@@ -339,3 +339,7 @@ Captions: generated from the full narration, chunked into short cues; English TT
 ## Rules checked
 
 Official overview: https://forgehacks-2026.devpost.com/ — public demo video 2–4 minutes, showing the problem and how the project works, hosted online; source repository and README required. Rules: https://forgehacks-2026.devpost.com/rules — working-demo quality is evaluated, AI-assisted coding is permitted and distinguished from product AI/ML. No specified codec, resolution or frame rate was found in those pages. We choose 1080p H.264/AAC MP4. GitHub-hosted video page will be public; YouTube hosting is given as an example rather than stated as the only host. Organizer acceptance of GitHub hosting is not independently confirmed.
+
+## Revision after inspection
+
+The initial exact-match shot placed Owner and Status too close to the subtitle area. The exact and candidate scenes were re-recorded using the same real application, native field-selector change events, and scrolling to the details panel. The existing recorder post-production module rebuilt the movie from the repaired capture ranges. No record values, results, or application state were fabricated.

@@ -5,7 +5,8 @@ A local web tool for comparing two recurring property or supplier lists. CSV/XLS
 ## Run
 
 ```bash
-cd /home/yap/Hack/ForgeHacks/listcheck-mvp-20261010
+git clone https://github.com/Georgefifth/listcheck-forgehacks-2026.git
+cd listcheck-forgehacks-2026
 python3 server.py
 ```
 
@@ -31,3 +32,7 @@ No customer benchmark or recurring-use validation has been performed. See SPEC.m
 ## Hosted preview and video
 
 The GitHub Pages version in `docs/` supports the built-in synthetic example and the real matching/review engine. CSV/XLSX import requires the local Python service; the hosted preview labels this limitation explicitly. `docs/video.html` presents the narrated live demonstration. The recorder scene specification lives in `submission/live-demo/scenes.cjs`.
+
+Track: AI + Business. The product uses corpus-fitted character TF-IDF and cosine-similarity candidate retrieval; AI-assisted coding is separate from this statistical text-matching component.
+
+Public links: [interactive example](https://georgefifth.github.io/listcheck-forgehacks-2026/), [narrated demo](https://georgefifth.github.io/listcheck-forgehacks-2026/video.html), [storyboard](submission/live-demo/STORYBOARD.md).

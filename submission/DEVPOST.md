@@ -72,7 +72,11 @@ Python, JavaScript, HTML5, CSS3, Web Workers, TF-IDF
 
 # Try it out links
 
-No public demo or source repository has been published yet. Do not submit the localhost URL as a public try-it-out link.
+[Interactive example](https://georgefifth.github.io/listcheck-forgehacks-2026/) — GitHub Pages preview with synthetic example records. CSV/XLSX file imports require the local Python app.
+
+[Source code](https://github.com/Georgefifth/listcheck-forgehacks-2026)
+
+[Narrated live demo](https://georgefifth.github.io/listcheck-forgehacks-2026/video.html)
 
 Local run: `python3 server.py`, then open `http://127.0.0.1:8765/`.
 
@@ -80,4 +84,5 @@ Local run: `python3 server.py`, then open `http://127.0.0.1:8765/`.
 
 - Thumbnail: `thumbnail.png` (generated illustration).
 - Gallery: `gallery/01-import.png`, `gallery/02-mapping.png`, `gallery/03-candidates.png`, `gallery/04-changes.png` (actual interface screenshots).
-- Demo: `listcheck-demo.mp4` (captioned walkthrough assembled from actual interface screenshots; not a continuous screen recording).
+- Demo: `listcheck-live-demo.mp4` (actual application recording with English narration, captions, cursor emphasis, and focus zoom).
+- Storyboard and complete narration: `live-demo/STORYBOARD.md`.
