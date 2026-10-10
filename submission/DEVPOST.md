@@ -86,3 +86,5 @@ Local run: `python3 server.py`, then open `http://127.0.0.1:8765/`.
 - Gallery: `gallery/01-import.png`, `gallery/02-mapping.png`, `gallery/03-candidates.png`, `gallery/04-changes.png` (actual interface screenshots).
 - Demo: `listcheck-live-demo.mp4` (actual application recording with English narration, captions, cursor emphasis, and focus zoom).
 - Storyboard and complete narration: `live-demo/STORYBOARD.md`.
+
+Important submission step: Devpost's Video demo field accepts YouTube, Vimeo, or Youku URLs only. Upload `listcheck-live-demo.mp4` to an accepted platform before submission. The GitHub Pages video is publicly watchable but cannot replace that field. Official reference: https://help.devpost.com/article/85-uploading-a-demo-video.

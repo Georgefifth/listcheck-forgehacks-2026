@@ -54,3 +54,7 @@ GitHub Pages build completed. Opened the final public video page and clicked its
 Public video: https://georgefifth.github.io/listcheck-forgehacks-2026/video.html
 Public MP4: https://georgefifth.github.io/listcheck-forgehacks-2026/listcheck-live-demo.mp4
 Source: https://github.com/Georgefifth/listcheck-forgehacks-2026
+
+## Required submission hosting step — confirmed platform restriction
+
+Devpost's official help page, https://help.devpost.com/article/85-uploading-a-demo-video, explicitly limits the Video demo field to YouTube, Vimeo, or Youku URLs. GitHub Pages playback therefore does NOT complete the submission video requirement. Upload the completed MP4 to an accepted service, enable public viewing/embedding as required, and paste that service's URL into Devpost. The Pages URL remains useful as a Try it out link. This upload and Devpost submission are unfinished; no supported-platform account session was used.
