@@ -343,3 +343,23 @@ Official overview: https://forgehacks-2026.devpost.com/ â€” public demo video 2â
 ## Revision after inspection
 
 The initial exact-match shot placed Owner and Status too close to the subtitle area. The exact and candidate scenes were re-recorded using the same real application, native field-selector change events, and scrolling to the details panel. The existing recorder post-production module rebuilt the movie from the repaired capture ranges. No record values, results, or application state were fabricated.
+
+## Actual output timeline
+
+| Scene | Start | End |
+|---|---|---|
+| hook | 00:00 | 00:13 |
+| problem | 00:13 | 00:27 |
+| import | 00:27 | 00:40 |
+| map | 00:40 | 00:54 |
+| id | 00:54 | 01:07 |
+| compare | 01:07 | 01:21 |
+| exact | 01:21 | 01:36 |
+| candidate | 01:36 | 01:52 |
+| confirm | 01:52 | 02:03 |
+| undo | 02:03 | 02:14 |
+| review-rest | 02:14 | 02:26 |
+| no-counterpart | 02:26 | 02:39 |
+| report | 02:39 | 02:54 |
+| technical | 02:54 | 03:12 |
+| closing | 03:12 | 03:28 |

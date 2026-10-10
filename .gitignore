@@ -7,3 +7,6 @@ submission/*.zip
 submission/video-check.jpg
 submission/listcheck-demo.mp4
 submission/live-demo/production.log
+submission/live-demo/repair/
+submission/live-demo/*.log
+submission/live-demo/review-sheet-*.jpg
